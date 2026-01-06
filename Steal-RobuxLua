@@ -194,7 +194,7 @@ toggle.MouseButton1Click:Connect(function()
 end)
 
 -- ===== MOZIL SCRIPT =====
-local MOZIL_URL = "https://raw.githubusercontent.com/MoziIOnTop/MoziIHub/refs/heads/main/mymomkindahomeless"
+local MOZIL_URL = "https://raw.githubusercontent.com/MakuExploit/Muuzel/refs/heads/main/Moezel"
 
 mozilBtn.MouseButton1Click:Connect(function()
     pcall(function()
